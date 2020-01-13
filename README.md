@@ -6,4 +6,4 @@ Hello, Welcome to my snippets extension! You'll find great use and more with my 
 - Javascript
 - Typescript
 - Python
-and more to com!
+and more to come!
