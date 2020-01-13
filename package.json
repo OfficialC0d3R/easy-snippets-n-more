@@ -1,0 +1,36 @@
+{
+    "name": "easy-snippets-n-more",
+    "displayName": "Easy Snippets & More",
+    "description": "Loads of snippets to make your coding pleasure, easier and faster!",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/typescript.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/python.json"
+            }
+        ]
+    }
+}
