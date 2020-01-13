@@ -1,6 +1,6 @@
 {
     "HTML Template": {
-        "prefix": "c!temp",
+        "prefix": ["c!htmltemp", "c!temp"],
         "description": "A quick HTML5 template.",
         "body": [
             "<!DOCTYPE html>",

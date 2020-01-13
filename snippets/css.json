@@ -1,6 +1,6 @@
 {
     "CSS Reset": {
-        "prefix": "c!reset",
+        "prefix": ["c!cssreset", "c!reset"],
         "description": "A quick shortcut for a CSS Reset.",
         "body": [
             "/* CSS Reset */",

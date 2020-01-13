@@ -1,6 +1,6 @@
 {
     "Quick Arrow Function": {
-        "prefix": "c!arrfunc",
+        "prefix": ["c!jsarrfunc", "c!arrfunc"],
         "description": "A quick ES6 arrow function snippet.",
         "body": [
             "const $1 = () => {",
