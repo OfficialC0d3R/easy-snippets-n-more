@@ -1,4 +1,4 @@
-# Easy Snippers & More
+# Easy Snippets & More
 
 Hello, Welcome to my snippets extension! You'll find great use and more with my extension, this snippets extension contains snippets for the following languages:
 - HTML
