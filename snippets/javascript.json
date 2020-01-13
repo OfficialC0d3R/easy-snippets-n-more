@@ -1,3 +1,18 @@
 {
-    
+    "Quick Arrow Function": {
+        "prefix": "c!arrfunc",
+        "description": "A quick ES6 arrow function snippet.",
+        "body": [
+            "const $1 = () => {",
+            "    $2",
+            "}"
+        ]
+    },
+    "Fast Console Log": {
+        "prefix": "c!log",
+        "description": "A fast console log snippet.",
+        "body": [
+            "console.log(\"$1\");"
+        ]
+    }
 }
