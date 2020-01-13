@@ -1,6 +1,6 @@
 {
     "Quick Python For Loop": {
-        "prefix": "c!pyloop",
+        "prefix": ["c!pyloop", "c!loop"],
         "description": "A quick and simple Python3 loop.",
         "body": [
             "for ($1 in $2):",
