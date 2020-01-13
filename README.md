@@ -1,4 +1,5 @@
 # Easy Snippets & More
+## https://marketplace.visualstudio.com/items?itemName=C0d3R.easy-snippets-n-more&ssr=false#review-details
 
 Hello, Welcome to my snippets extension! You'll find great use and more with my extension, this snippets extension contains snippets for the following languages:
 - HTML
