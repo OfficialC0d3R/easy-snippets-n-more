@@ -1,3 +1,11 @@
 {
-    
+    "Quick Python For Loop": {
+        "prefix": "c!pyloop",
+        "description": "A quick and simple Python3 loop.",
+        "body": [
+            "for ($1 in $2):",
+            "    $3",
+            "end"
+        ]
+    }
 }
