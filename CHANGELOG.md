@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "easy-snippets-n-more" extension will be documented in this file.
+### [1.0.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+Hello, this is the first release of Easy Snippets & More made by C0d3R!
+More updates and snippets to come in future updates!
