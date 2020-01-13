@@ -1,8 +1,13 @@
 {
     "name": "easy-snippets-n-more",
     "displayName": "Easy Snippets & More",
+    "publisher": "C0d3R",
     "description": "Loads of snippets to make your coding pleasure, easier and faster!",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OfficialC0d3R/easy-snippets-n-more.git"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
