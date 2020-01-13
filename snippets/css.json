@@ -1,3 +1,14 @@
 {
-    
+    "CSS Reset": {
+        "prefix": "c!reset",
+        "description": "A quick shortcut for a CSS Reset.",
+        "body": [
+            "/* CSS Reset */",
+            "* {",
+            "    margin: 0;",
+            "    padding: 0;",
+            "    box-sizing: border-box;",
+            "}"
+        ]
+    }
 }
