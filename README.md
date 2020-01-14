@@ -30,14 +30,48 @@ and more to come!
 | c!arrfunc  | A quick ES6 arrow function snippet. |
 | c!log      | A fast console log snippet.         |
 
+**Python Shortcuts**
+
+| Shortcut  | Description                                                       |
+| --------  | ----------------------------------                                |
+| c!loop    | A quick python for loop.                                          |
+| c!log     | A fast console log snippet similar to the javascript one.         |
+
 **Typescript Shortcuts**
 
 | Shortcut  | Description                        |
 | --------  | ---------------------------------- |
-| c!        |                                    |
+| Coming Soon...                                 |
 
-**Python Shortcuts**
 
-| Shortcut  | Description                        |
-| --------  | ---------------------------------- |
-| c!        |                                    |
+## Extra Features
+
+**Discord.js Shortcuts (JS)**
+
+| Shortcut              | Description                                |
+| --------              | ----------------------------------         |
+| c!djstemp             | Create a quick discord.js template.        |
+| c!djsuserjoinevent    | A shortcut to the user join guild event.   |
+| c!djsuserleaveevent   | A shortcut to the user leave guild event.  |
+| c!djsreadyevent       | A shortcut to the ready event.             |
+| c!djsmsgevent         | A shortcut to the message event.           |
+| c!djscmdhandler       | A fast command handler.                    |
+| c!djscmdtemp          | Quick command layout for command handler.  |
+
+**VSCode Shortcuts (JSON)**
+
+| Shortcut     | Description                                       |
+| --------     | ----------------------------------                |
+| c!vscsnippet | A VSCode snippet, to make making snippets faster. |
+
+**Express Shortcuts (JS)**
+
+| Shortcut | Description                          |
+| -------- | ----------------------------------   |
+| Coming Soon...                                  |
+
+**React Shortcuts (JS)**
+
+| Shortcut | Description                          |
+| -------- | ----------------------------------   |
+| Coming Soon...                                  |

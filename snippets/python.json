@@ -7,5 +7,12 @@
             "    $3",
             "break"
         ]
-    }
+    },
+    "Fast Console Log for Python": {
+        "prefix": "c!log",
+        "description": "A fast console log snippet similar to the javascript one.",
+        "body": [
+            "log(\"$1\");"
+        ]
+    },
 }
